@@ -1,3 +1,2 @@
-# wild-project
-Comment installer ce projet ?
-Il suffit, pour le moment, de le cloner.
+# wild-project1
+# wild-project1
